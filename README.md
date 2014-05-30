@@ -8,4 +8,5 @@ Developers:
 - browse to chrome://extensions
 - Check Developer Mode checkbox
 - Install unpacked extension, browse to NSFSquirrels clone directory.
+- Browse to NSFW link on Reddit.com with a thumbnail. Enjoy a squirrel.
 - After making additional changes, be sure to hit reload on the chrome://extensions page.
